@@ -2,13 +2,18 @@
 Rat House Rumble (RHR) is an arena shooter set in a 3D-scanned house. You can play RHR solo or with up to four players in local splitscreen. 
 [Download the game here from its itch.io page](https://rocmalone.itch.io/rat-house-rumble). This repo houses most of the scripts used in the game's creation.
 
-RHR is an exploration of the Godot engine's 3D performance and the capability of the iPhone 13 Pro's Lidar sensor.
+### Mission
+RHR is an exploration of the Godot engine's 3D performance and the capability of the iPhone 13 Pro's Lidar sensor (hint: it is *just capable enough*).
+
+It is a tribute to some long term friendships, and an era of my life that I will always remember fondly.
 
 For those curious about the story behind the game and the challenges in bringing it to life, stay tuned for a retrospective blog post coming soon™. TLDR; there are some good reasons AAA studios don't use 3D scanned assets/environments, but if you're a solo-dev and not an artist you should seriously consider using 3D-scanning for key assets (think weapons & hand-held items). 
 
+### Other thoughts
+
 Feel free to use anything you find in this repo as inspiration or guidance for your own work. Godot is a hell of an engine and could use some help. Learn more and how to contribute at [https://godotengine.org/](https://godotengine.org/).
 
-Note:  This project's source code and assets were managed using Git and a local Gitea server, totaling ~ 2300 lines of code and 25gb of raw and processed assets. The "choice cuts" of that repo have been uploaded here, but may not stay up to date.
+Note:  This project's source code and assets were managed using Git and a local Gitea server, totaling over 40gb. The assets have been discarded and the "choice cuts" of that repo have been uploaded here, but may not stay up to date.
 
 
 ## Gameplay
