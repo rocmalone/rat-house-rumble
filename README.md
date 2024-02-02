@@ -6,7 +6,12 @@ RHR is an exploration of the Godot engine's 3D performance and the capability of
 
 For those curious about the story behind the game and the challenges in bringing it to life, stay tuned for a retrospective blog post coming soon™. TLDR; there are some good reasons AAA studios don't use 3D scanned assets/environments, but if you're a solo-dev and not an artist you should seriously consider using 3D-scanning for key assets (think weapons & hand-held items). 
 
-## Gameplay clips
+Feel free to use anything you find in this repo as inspiration or guidance for your own work. Godot is a hell of an engine and could use some help. Learn more and how to contribute at [https://godotengine.org/](https://godotengine.org/).
+
+Note:  This project's source code and assets were managed using Git and a local Gitea server, totaling ~ 2300 lines of code and 25gb of raw and processed assets. The "choice cuts" of that repo have been uploaded here, but may not stay up to date.
+
+
+## Gameplay
 ![Two players fighting with a rocket launcher and hair dryer](https://img.itch.zone/aW1nLzE0NzYwNDU3LmdpZg==/original/N4BgRH.gif)
 
 ![Four player split screen gameplay](https://img.itch.zone/aW1nLzE0NzYwMzEwLmdpZg==/original/M0QigV.gif)
